@@ -1,0 +1,19 @@
+body{background-color: #E5E5E5}
+
+.container{width:80% ;}
+.navbar{background-color: #562EFF;
+}
+.navbar img{width:40px;
+height:40px;
+margin-bottom: 10px;
+
+}
+.row img{width: 40px;}
+.text p{margin:10px;}
+.blog img{width: 177px;
+height: 117px;}
+.card-footer{border-top: none;
+background-color: white;}
+.card-footer img{width: 15px;}
+.boder{border-radius: 15px;
+background-color:rgb(248, 212, 212);}
